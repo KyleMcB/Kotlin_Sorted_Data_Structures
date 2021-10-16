@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2021. Kyle McBurnett
+ */
+
 import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
